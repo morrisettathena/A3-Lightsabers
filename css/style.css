@@ -28,7 +28,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#35424a;
+  background:#696969;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -36,10 +36,10 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:url('../img/hellothere.gif');
   color:#ffffff;
   padding-top:30px;
-  min-height:70px;
+  min-height:200px;
   border-bottom:#e8491d 3px solid;
 }
 
@@ -82,9 +82,9 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('../img/showcase.jpg') no-repeat 0 -400px;
+  background:url('../img/grievous.jpg');
   text-align:center;
-  color:#ffffff;
+  color: black;
 }
 
 #showcase h1{
@@ -132,7 +132,7 @@ header a:hover{
 }
 
 #boxes .box img{
-  width:90px;
+  width:180px;
 }
 
 /* Sidebar */
